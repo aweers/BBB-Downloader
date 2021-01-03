@@ -4,6 +4,11 @@ Downloader for BigBlueButton recordings
 ## Requirements
 * ffmpeg needs to be added to the PATH variable.
 
+## Config file
+A file with the name config.ini is used for configuration purpose. Currently it just contains 
+the base url of the bbb paths, as I did not want to publish some url.  
+An example file is provided in this repo.
+
 ## Parameters
 ```console
 $ python bbbd.py --help
