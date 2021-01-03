@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files:
+!.gitignore
+!bbbd.py
+!README.md
+!config.ini.example
